@@ -5,6 +5,8 @@ author: "Joachim Jacob & Florian D. Schneider"
 output:
   tufte::tufte_html: 
     self_contained: no
+    includes:
+       in_header: metatags.html
   html_document: 
     self_contained: no
   tufte::tufte_handout:
