@@ -127,7 +127,7 @@ knitr::include_graphics('assets/20180808_9467.JPG')
 ```
 
 ```{marginfigure}
-Makrofotografien von Philip Hönle verweisen auf die sonst unsichtbaren Arbeiter und Verwerter des Totholzes: Insekten und andere Gliedertiere, die sich vom Holz und den darin befindlichen Nährstoffen direkt oder indirekt ernähren.  
+Makrofotografien von Philipp Hönle verweisen auf die sonst unsichtbaren Arbeiter und Verwerter des Totholzes: Insekten und andere Gliedertiere, die sich vom Holz und den darin befindlichen Nährstoffen direkt oder indirekt ernähren.  
 ```
 ```{r, fig.fullwidth = FALSE, echo = FALSE, fig.align='center'}
 knitr::include_graphics('assets/20180818_0227.JPG')
@@ -151,7 +151,7 @@ knitr::include_graphics('assets/20180809_9683.JPG')
 ## Informationstafel
 
 ```{r, fig.fullwidth = FALSE, echo = FALSE, fig.align='center'}
-knitr::include_graphics('assets/20180818_0219.JPG')
+knitr::include_graphics('assets/20180818_0219.jpg')
 ```
 
 Die Skulptur bietet schließlich eine dritte Ebene der Erfahrung: Die Ebene der philosophischen Reflektion über unsere eigene Praxis des "Sinn-suchens". Mit ihrer wissenschaftlichen Gestaltung und den konzeptionellen Darstellungen repräsentiert die Informationstafel diese Ebene des epistemischen Diskurses. 
@@ -160,7 +160,7 @@ Wir haben die Tafel in einiger Entfernung zur Gradientenlinie und Integrallinie 
 
 ## Danksagung
 
-Ein besonderer Dank gebührt [Phil Hönle](https://twitter.com/myrmecoPhil), der die wunderbaren Makrofotos beisteuerte. Unser Dank geht an die vielen Helfer_innen, die die Umsetzung dieser Arbeit ermöglicht haben: Adrian Jost, Christian Büchner, Peter Fischer, Angelika Kern, Felix Noe, Florian Huber, Jens Rotsche, Jonas Nitsch, Jule Mangels, Kilian Lingen, Leon, Matthias, Matthias, Mathis Stallknecht, Roger Rigorth, Theresa Stratmann, Tilman Stallknecht, und natürlich an Uwe; an Rosi und Richard Schneider für das Catering. Danke auch an die vielen Helfer_Innen, Unterstützer_Innen und Verantwortlichen im Verein für internationale Waldkunst und im Waldkunstzentrum Darmstadt. 
+Ein besonderer Dank gebührt [Phil Hönle](https://twitter.com/myrmecoPhil), der die wunderbaren Makrofotos beisteuerte. Unser Dank geht an die vielen Helfer_innen, die die Umsetzung dieser Arbeit ermöglicht haben: Adrian Jost, Christian Büchner, Peter Fischer, Angelika Kern, Felix Noe, Florian Huber, Jens Rotzsche, Jonas Nitsch, Jule Mangels, Kilian Lingen, Leon, Matthias, Matthias, Mathis Stallknecht, Roger Rigorth, Theresa Stratmann, Tilman Stallknecht, und natürlich an Uwe; an Rosi und Richard Schneider für das Catering. Danke auch an die vielen Helfer_Innen, Unterstützer_Innen und Verantwortlichen im Verein für internationale Waldkunst und im Waldkunstzentrum Darmstadt. 
 
 ```{r, fig.fullwidth = FALSE, echo = FALSE}
 knitr::include_graphics('assets/20180728_8534.JPG')
