@@ -1,7 +1,7 @@
 ---
 title: "Crossing the Valley - Die Metamorphose des Zerfalls"
 subtitle: "Eine begehbare Skulptur über die Zersetzung von Totholz"
-author: "Florian D. Schneider & Joachim Jacob"
+author: "Joachim Jacob & Florian D. Schneider"
 output:
   tufte::tufte_html: 
     self_contained: no
@@ -171,7 +171,7 @@ knitr::include_graphics('assets/20180728_8534.JPG')
 
 
 ```{marginfigure}
-Alle Fotos und Texte © Florian D. Schneider & Joachim Jacob; für Reproduktion und weitere Informationen: [e-mail](mailto:florian.dirk.schneider@gmail.com); Diese Projektseite ist Bestandteil der übergeordneten Webseite http://fdschneider.de.
+Alle Fotos und Texte © Joachim Jacob & Florian D. Schneider; für Reproduktion und weitere Informationen: [e-mail](mailto:florian.dirk.schneider@gmail.com); Diese Projektseite ist Bestandteil der übergeordneten Webseite http://fdschneider.de.
 ```
 
 - Webseite des [9ten internationaler Waldkunstpfades 2018 "Kunst Ökologie"](https://2018.waldkunst.com/), in Darmstadt
