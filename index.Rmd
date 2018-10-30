@@ -162,7 +162,7 @@ Wir haben die Tafel in einiger Entfernung zur Gradientenlinie und Integrallinie 
 
 ## Danksagung
 
-Ein besonderer Dank gebührt [Phil Hönle](https://twitter.com/myrmecoPhil), der die wunderbaren Makrofotos beisteuerte. Unser Dank geht an die vielen Helfer_innen, die bei der Umsetzung mit angepackt haben: Adrian Jost, Christian Büchner, Peter Fischer, Angelika Kern, Felix Noe, Florian Huber, Jens Rotzsche, Jonas Nitsch, Jule Mangels, Kilian Lingen, Leon, Matthias, Matthias, Mathis Stallknecht, Roger Rigorth, Theresa Stratmann, Tilman Stallknecht, und ganz besonders an Uwe Timmermann. Danke an Rosi und Richard Schneider für das Catering. Danke auch an die vielen Helfer_Innen, Unterstützer_Innen und Verantwortlichen im Verein für internationale Waldkunst und im Waldkunstzentrum Darmstadt. 
+Ein besonderer Dank gebührt [Phil Hönle](https://twitter.com/myrmecoPhil), der die wunderbaren Makrofotos beisteuerte. Unser Dank geht an die vielen Helfer_innen, die bei der Umsetzung mit angepackt haben: Adrian Jost, Christian Büchner, Peter Fischer, Angelika Kern, Felix Noe, Florian Huber, Jens Rotzsche, Jonas Nitsch, Jule Mangels, Kilian Lingen, Kiki Rau, Leon Sehn, Matthias Hofmann, Matthias Lothammer, Mathias, Mathias, Mathis Stallknecht, Roger Rigorth, Theresa Stratmann, Tilman Stallknecht, und ganz besonders an Uwe Timmermann. Danke an Rosi und Richard Schneider für das Catering. Danke auch an die vielen Helfer_Innen, Unterstützer_Innen und Verantwortlichen im Verein für internationale Waldkunst und im Waldkunstzentrum Darmstadt. 
 
 ```{r, fig.fullwidth = FALSE, echo = FALSE}
 knitr::include_graphics('assets/20180728_8534.JPG')
